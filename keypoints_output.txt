@@ -1,0 +1,38 @@
+Person 1:
+Keypoint 0: x=588.47, y=652.10
+Keypoint 1: x=600.21, y=642.96
+Keypoint 2: x=574.86, y=639.91
+Keypoint 3: x=618.23, y=649.03
+Keypoint 4: x=553.72, y=644.52
+Keypoint 5: x=633.31, y=715.21
+Keypoint 6: x=538.54, y=711.09
+Keypoint 7: x=664.27, y=800.48
+Keypoint 8: x=498.91, y=801.38
+Keypoint 9: x=685.97, y=868.86
+Keypoint 10: x=485.10, y=860.74
+Keypoint 11: x=585.81, y=854.64
+Keypoint 12: x=530.67, y=848.18
+Keypoint 13: x=554.24, y=924.49
+Keypoint 14: x=519.27, y=919.97
+Keypoint 15: x=453.80, y=967.03
+Keypoint 16: x=453.89, y=965.40
+
+Person 2:
+Keypoint 0: x=1078.74, y=398.03
+Keypoint 1: x=1087.62, y=386.47
+Keypoint 2: x=1064.38, y=387.50
+Keypoint 3: x=1099.33, y=396.39
+Keypoint 4: x=1040.61, y=399.05
+Keypoint 5: x=1132.64, y=479.20
+Keypoint 6: x=1003.14, y=480.59
+Keypoint 7: x=1156.28, y=573.19
+Keypoint 8: x=972.06, y=576.30
+Keypoint 9: x=1142.81, y=648.71
+Keypoint 10: x=1001.76, y=652.53
+Keypoint 11: x=1111.60, y=677.48
+Keypoint 12: x=1027.68, y=677.32
+Keypoint 13: x=1114.86, y=814.31
+Keypoint 14: x=1013.12, y=805.87
+Keypoint 15: x=1108.08, y=936.68
+Keypoint 16: x=1006.97, y=919.56
+
