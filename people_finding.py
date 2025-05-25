@@ -82,8 +82,8 @@ def process_video(video_path, output_txt='keypoints_video_output.txt'):
 
 if __name__ == "__main__":
     
-    image_path = 'sample_image.jpg'  
+    image_path = 'samples/sample_image.jpg'  
     process_image(image_path)
 
-    video_path = 'sample_video.mp4'  
+    video_path = 'samples/sample_video.mp4'  
     process_video(video_path)
